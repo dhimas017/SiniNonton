@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026554108506",
+    "project_id": "sininonton-46a32",
+    "storage_bucket": "sininonton-46a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026554108506:android:f372f668d0a5f1df485663",
+        "android_client_info": {
+          "package_name": "com.sininonton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026554108506-nduhdf9hlnva60fuj04455lg796japm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKa_kFyaBdvfSpK5H1NnJGdiJcPFQP0ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026554108506-nduhdf9hlnva60fuj04455lg796japm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
